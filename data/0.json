@@ -1,0 +1,8 @@
+{
+  "type": "delivery-started",
+  "courier_id": 1234,
+  "location": {
+    "latitude": 37.7749,
+    "longitude": 122.4194
+  }
+}
